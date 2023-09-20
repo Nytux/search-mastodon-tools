@@ -366,4 +366,29 @@
             <keyword>iphone</keyword>
         </keywords>
     </tool>
+    <tool>
+        <id>28</id>
+        <name>Toots.cat search engine widget</name>
+        <description>A widget to include the opensource mastodon fulltext search engine toots.cat</description>
+        <link>https://archive.wikiwix.com/trinet-widget/demo-en.html</link>
+        <icon>fa-search</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>fulltext</keyword>
+            <keyword>keyword</keyword>
+            <keyword>widget</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>29</id>
+        <name>Toots.cat search engine</name>
+        <description>An opensource fulltext search engine on all Mastodon instances</description>
+        <link>https://toots.cat/</link>
+        <icon>fa-search</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>fulltext</keyword>
+            <keyword>keyword</keyword>
+        </keywords>
+    </tool>
 </database>
